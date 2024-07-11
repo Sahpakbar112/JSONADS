@@ -1,0 +1,15 @@
+{
+  "Ads": [
+    {
+"banner_id":"ba924c1fc44d29ac",
+      "interstitial_id": "0ee55073fd46cb13",
+      "reward_id":"d64a59befe5cef9",
+      "natives_id":"8d9bec8b94279ed6",
+      "open_app_id":"fce5b3d0bbba9df0",
+      "interval_interstitial":4,
+      "channel_id":"9285717016",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+}
