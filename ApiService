@@ -1,0 +1,8 @@
+
+import retrofit2.Call;
+import retrofit2.http.GET;
+
+public interface ApiService {
+    @GET("https://raw.githubusercontent.com/Sahpakbar112/JSONADS/main/pxerstudio.json/") // Ganti dengan path raw file JSON Anda
+    Call<AdsResponse> getAds();
+}
