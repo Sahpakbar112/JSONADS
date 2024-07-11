@@ -1,0 +1,84 @@
+public class Ad {
+    private String banner_id;
+    private String interstitial_id;
+    private String reward_id;
+    private String natives_id;
+    private String open_app_id;
+    private int interval_interstitial;
+    private String channel_id;
+    private String status_app;
+    private String link_redirect;
+
+    // Getters and Setters
+    public String getBanner_id() {
+        return banner_id;
+    }
+
+    public void setBanner_id(String banner_id) {
+        this.banner_id = banner_id;
+    }
+
+    public String getInterstitial_id() {
+        return interstitial_id;
+    }
+
+    public void setInterstitial_id(String interstitial_id) {
+        this.interstitial_id = interstitial_id;
+    }
+
+    public String getReward_id() {
+        return reward_id;
+    }
+
+    public void setReward_id(String reward_id) {
+        this.reward_id = reward_id;
+    }
+
+    public String getNatives_id() {
+        return natives_id;
+    }
+
+    public void setNatives_id(String natives_id) {
+        this.natives_id = natives_id;
+    }
+
+    public String getOpen_app_id() {
+        return open_app_id;
+    }
+
+    public void setOpen_app_id(String open_app_id) {
+        this.open_app_id = open_app_id;
+    }
+
+    public int getInterval_interstitial() {
+        return interval_interstitial;
+    }
+
+    public void setInterval_interstitial(int interval_interstitial) {
+        this.interval_interstitial = interval_interstitial;
+    }
+
+    public String getChannel_id() {
+        return channel_id;
+    }
+
+    public void setChannel_id(String channel_id) {
+        this.channel_id = channel_id;
+    }
+
+    public String getStatus_app() {
+        return status_app;
+    }
+
+    public void setStatus_app(String status_app) {
+        this.status_app = status_app;
+    }
+
+    public String getLink_redirect() {
+        return link_redirect;
+    }
+
+    public void setLink_redirect(String link_redirect) {
+        this.link_redirect = link_redirect;
+    }
+}
